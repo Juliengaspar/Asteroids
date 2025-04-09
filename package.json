@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/tecg-mmi/Asteroids.git"
   },
-  "author": "Daniel <daniel.schreurs@hepl.be>",
+  "author": "Julien <julien.gaspar@student.hepl.be>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tecg-mmi/Asteroids/issues"

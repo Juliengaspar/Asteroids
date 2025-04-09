@@ -1,4 +1,3 @@
-import {Rgb} from "../framework/colors/Rgb";
 
 export const settings = {
     canvas: {
